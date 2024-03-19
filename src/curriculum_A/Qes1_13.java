@@ -165,6 +165,8 @@ public class Qes1_13 {
 		  * 10問目
 		  * 
 		  */
+		
+		 age =24; // 問8の値を再代入
 		 
 		 boolean OverTwentyFive;  // 真偽値を扱う変数の定義
 		 OverTwentyFive = false;  // 変数の初期化
@@ -180,6 +182,9 @@ public class Qes1_13 {
 		  * 11問目
 		  * 
 		  */
+		 
+		 height =168.5; // 問8の値を再代入
+		 weight =64.2; // 問8の値を再代入
 		 
 		 // 文字列型に型変換し文字列型の変数へ値を格納---------
 		 String strAge =String.valueOf(age);
